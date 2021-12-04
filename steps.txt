@@ -1,0 +1,9 @@
+step 1: install npm
+step 2: install vue-cli:
+step 3: create project with vue-cli :
+
+
+
+
+to learn:
+router - SPA
